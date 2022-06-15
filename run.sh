@@ -1,1 +1,1 @@
-FLASK_APP=Fraud_Analysis/app.py flask run
+FLASK_APP=App_code/app.py flask run
