@@ -31,7 +31,8 @@ Nowadays, the company Telmov have found an increase tendency of chargebacks and 
 
 In the following figure we show the relation of the dataset:
 
-![Data_structure](Data_structure.png)
+![image](https://user-images.githubusercontent.com/96214489/173942986-d4337bcc-0f78-48b2-bebe-a8c974622f2e.png)
+
 
 
 ## Questions we hope to answer with the data
