@@ -149,3 +149,10 @@ We ran the model with 500 n_estimators which are the number of trees that were c
 
 Now we can clearly see which features, or columns are more relevant.
 ![features_random](https://user-images.githubusercontent.com/31755703/172081264-b362a8d4-6353-49c5-b7a5-111bb0068e7b.PNG)
+
+
+## Link to dashboard demo
+
+Here's a glimpse to the final dashboard.
+
+https://www.loom.com/share/edaff7d244984c2f9179a0a6205347b1
