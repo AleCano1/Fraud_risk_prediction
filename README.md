@@ -152,6 +152,8 @@ Now we can clearly see which features, or columns are more relevant.
 
 Basically shipping addresse, customer_id and amount per transaction are the main variables to consider if a transaction may be fraud or not. As mentioned before it is important to complement the model with a manual revision that will help to diminish the % of fraudelent transacctions.
 
+For future steps we must consider a more statistical approach, so we can confirm if the variables marked as important are really the ones defining a fraud transaction and if this changes from one sample to another. Rstudio can help us on this matters and we can divide the dataset by Regions to go deeper on the behavior the customer has. This process should be run in a regular basis so we are aware of possible outliers that can introduce noise to the model
+
 # Link to dashboard demo
 
 Here's a glimpse to the final dashboard.
