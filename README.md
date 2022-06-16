@@ -150,7 +150,7 @@ We ran the model with 500 n_estimators which are the number of trees that were c
 Now we can clearly see which features, or columns are more relevant.
 ![features_random](https://user-images.githubusercontent.com/31755703/172081264-b362a8d4-6353-49c5-b7a5-111bb0068e7b.PNG)
 
-Basically shipping addresse, customer_id and amount per transaction are the main variables to consider if a transaction may be fraude or not. As mentioned before it is important to complement the model with a manual revision that will help to diminish the % of fraudelent transacctions.
+Basically shipping addresse, customer_id and amount per transaction are the main variables to consider if a transaction may be fraud or not. As mentioned before it is important to complement the model with a manual revision that will help to diminish the % of fraudelent transacctions.
 
 # Link to dashboard demo
 
