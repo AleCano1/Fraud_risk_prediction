@@ -159,6 +159,7 @@ For future steps we must consider a more statistical approach, so we can confirm
 Here's a glimpse to the final dashboard.
 
 https://www.loom.com/share/edaff7d244984c2f9179a0a6205347b1
+https://public.tableau.com/views/FraudAnalysis_16553538386490/Story1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Final Presentation in GSlides
 
