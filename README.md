@@ -139,7 +139,7 @@ The model has been trained with the information of 1 year of current operation. 
 
 #### Description of current accuracy score:
 ======
-### Interpretation of results:
+### Interpretation of results & conclusions.
 
 ![image](https://user-images.githubusercontent.com/31755703/172081024-f026a89e-eefb-4fce-8fac-b4a56871a12d.png)
 
